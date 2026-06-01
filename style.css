@@ -1,0 +1,44 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    --red:#d2191f;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+background-color: #d2191f;
+padding: ;
+
+
+}
+section{
+    background-color: red;
+    text-align: center;
+    padding-top: 50px;
+    
+    margin-left: 50px;
+    margin-right: 50px;
+margin: 100px;
+}
+img{
+    width: 250px;
+    border-radius: 5%;
+
+}
+p{
+   
+    text-transform: capitalize;
+}
+#Tiktok{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+#Whatsapp{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px solid rgb(7, 5, 5);
+}
